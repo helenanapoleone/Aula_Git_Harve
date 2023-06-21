@@ -2,7 +2,7 @@
 
 #### Meu primeiro repositório e *meu segundo commit*
 
-#Código Python*
+# Código Python
 
 ---
 import pandas as pd
