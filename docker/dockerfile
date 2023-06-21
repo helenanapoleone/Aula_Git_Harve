@@ -1,0 +1,6 @@
+FROM ubuntu:latest
+
+WORKDIR /app
+
+CMD ["echo", "Helena"]
+
